@@ -8,8 +8,6 @@ public class TestGit {
 		 * Now we will commit this class and see if it gets reflected in the git.
 		 */
 		
-		System.out.println("Aagau Pooja");
-		
 		//wait I will commit ok?
 		
 	}
